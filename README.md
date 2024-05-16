@@ -1,10 +1,8 @@
-Hi, I am Hamza
- I’m interested in coding
- I’m currently learning web development and game development
-I’m looking to collaborate on web developement
- How to reach me via email hamzakareem2h@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<html><h1> Hi, I'm Hamza Kareem</h1>
+ <h3>About me</h3>
+<p>a seasoned webdeveloper. I can make a user friendly and responsive website according to your requirement.</p>
+ 
+</html>
 
 <!---
 Hamza0265/Hamza0265 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
