@@ -1,18 +1,18 @@
 <html><h1> Hi, I'm Hamza Kareem</h1>
  <h1>About me</h1>
-⚡ Web Developer by passion and profession
-🌱 Practicing Leetcode at ICodeGuru regularly
-🌱 Actively working on Techsole software house.
-🌱 Actively working on problem solving skills , DSA and Leetcode.
-😄 2024 goals: DSA and Leetcode Proficiency along with MERN stack dev.
-⚡ LOVE working with Tech business ventures, helping them with their writing needs.
-💬 Don't hesitate to reach out for Business and Coding related discussions and collaborations.
+⚡ Web Developer by passion and profession<br>
+🌱 Practicing Leetcode at ICodeGuru regularly<br>
+🌱 Actively working on Techsole software house.<br>
+🌱 Actively working on problem solving skills , DSA and Leetcode.<br>
+😄 2024 goals: DSA and Leetcode Proficiency along with MERN stack dev.<br>
+⚡ LOVE working with Tech business ventures, helping them with their writing needs.<br>
+💬 Don't hesitate to reach out for Business and Coding related discussions and collaborations.<br>
 
  <h1>Skills</h1>
-  <span>.</span><h2>HTML</h2>
-  <span>.</span><h2>CSS</h2>
-  <span>.</span><h2>JavaScript</h2>
-  <span>.</span><h2>Python</h2>
+  <h3>. HTML</h3>
+  <h3>. CSS</h3>
+  <h3>. JavaScript</h3>
+  <h3>. Python</h3>
 </html>
 
 
