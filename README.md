@@ -13,6 +13,12 @@
   <h3>. CSS</h3>
   <h3>. JavaScript</h3>
   <h3>. Python</h3>
+  <h3>. Django</h3>
+  <h3>. c++</h3>
+  <h3>. SQL</h3>
+  <h3>. Assembly Language</h3>
+  <h3>. Bootstrap</h3>
+  
 </html>
 
 
